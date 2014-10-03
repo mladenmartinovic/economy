@@ -1,5 +1,9 @@
 -- Radna verzija -- 	https://github.com/gmailMmartin/economy
-Mjere koje bi Vlada morala poduzeti za spas gospodarstva odnosno povećanje BDP-a. U nastavku daje ideju, pojašnjenje i kratak SWOT:
+Mjere koje bi Vlada morala poduzeti za spas gospodarstva odnosno povećanje BDP-a. 
+Dokument je koncipiran na način:
+- ideja
+- pojašnjenje
+- SWOT brainstorming
 
 1) Odgoda plaćanja kredita svim poduzećima na mjesec dana
 Pojašnjenje: Krenite od sebe. Ukoliko jedan mjesec ne bi morali platiti ratu kredita dobili bi značajan predah. Tako dobiveni novac bi mogli iskoristiti za neophodne stvari. Smatram da bi to uveliko pomoglo gospodarsvu s time da se nikome ništa ne oprašta. Svi i dalje moraju vratiti svoje dugove samo s predahom od mjesec dana. 
