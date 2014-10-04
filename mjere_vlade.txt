@@ -1,9 +1,9 @@
 -- Radna verzija -- 	https://github.com/gmailMmartin/economy
 Mjere koje bi Vlada morala poduzeti za spas gospodarstva odnosno povećanje BDP-a. 
-Dokument je koncipiran na način:
+Dokument predstavlja idejnu razradu te je koncipiran na način:
 - ideja
 - pojašnjenje
-- SWOT brainstorming
+- SWOT brainstorming (strengths, weaknesses, opportunities and threats)
 
 1) Odgoda plaćanja kredita svim poduzećima na mjesec dana
 Pojašnjenje: Krenite od sebe. Ukoliko jedan mjesec ne bi morali platiti ratu kredita dobili bi značajan predah. Tako dobiveni novac bi mogli iskoristiti za neophodne stvari. Smatram da bi to uveliko pomoglo gospodarsvu s time da se nikome ništa ne oprašta. Svi i dalje moraju vratiti svoje dugove samo s predahom od mjesec dana. 
@@ -12,7 +12,7 @@ SWOT - kamata:
 s: Smanjenje rizika bankrota poduzeća, više novaca ostaje privredi
 w: Operacija košta
 o: Predah gospodarstvu u plaćanju obaveza kredita
-t: Interes banaka upitan. One nevole uplitanje države u njihovu kamatu ali broj loših plasmana bi se smanjio. Mogli bi to i podržati uz određenu naknadu - to je lako izračunati. Ako i ne podrže provedite to.
+t: Interes banaka upitan. One nevole uplitanje države u njihovu kamatu ali broj loših plasmana bi se smanjio. Mogli bi to i podržati uz određenu naknadu - to je lako izračunati. Ako to banke i ne podrže - provedite to.
 
 
 2) Smanjenje cijene električne energije od 50%
@@ -39,6 +39,7 @@ t: Ugoržen interes gradova i općina
 4) Tiskanje novca
 Pojašnjenje: Mjere koštaju i mogu se platiti tiskanjem novca. Time bi kuna pojeftinila na 1€ - 9kn. To bi istovremeno pomoglo izvoznom gospodarstvu.
 
+
 SWOT - tiskara:
 s: Država bi imala više novaca, neophodno za pokretanje gospodarstva
 w: Veće rate kredita u kunama
@@ -47,16 +48,16 @@ t: Ugrožen interes građana i banaka.
 
 
 5) Smanjenje PDV-a
-Pojašnjenje: Gore navedene mjere će donjeti povećanje BDP-a. Time bi se postupno mogao smanjivati PDV, do razine prosjeka EU.
+Pojašnjenje: Gore navedene mjere će donjeti povećanje BDP-a. Time bi se postupno mogao smanjivati PDV, do razine prosjeka EU. Samo smanjenje ne utječe na konkurentnost domaćeg proizvoda nego na obujam trgovine.
 
 SWOT - PDV:
 s: Integracija gospodarstva u EU
 w: Smanjenje priliva u državnu blagajnu
-o: Pojeftinjenje proizvoda -> povećana potrošnja -> povećanje dinamike trgovanja -> povećanje BDP-a
+o: Trgovina. Pojeftinjenje proizvoda -> povećana potrošnja -> povećanje dinamike trgovanja -> povećanje BDP-a
 t: Povećanje zaduženosti države u €.
 
 
-6) Ukinite PDV na trošila koja troše malo el. energije
+6) Ukinite/smanjite PDV na trošila koja troše malo el. energije
 Donesite propis za ukidanje PDV-a na trošila kao što su:
 - LED televizori
 - LED žarulje
@@ -72,7 +73,7 @@ t: Nerazumijevanje problematike
 
 
 7) Smanjenje ljudi u državnoj upravi i javnim poduzećima
-Osobno smatram da je to pitanje nebitno u sadašnjoj situaciji, ali ako se hoće nešto napraviti morate kreirati strategiju i proceduru te osigurati fincijska sredstva.
+Osobno smatram da je to pitanje nebitno u sadašnjoj situaciji, ali ako se hoće nešto napraviti morate kreirati strategiju i proceduru te osigurati značajna fincijska sredstva.
 Dva su bitna čimbenika u kreiranju procesa: 
 1) Strategija javnog poduzeća 
 - to je dokument oko čega se sve vrti
@@ -81,14 +82,14 @@ Dva su bitna čimbenika u kreiranju procesa:
 - paralelno se napravi plan investicija tog smanjenja (smanjenje osoblja košta)
 - paralelno se naprave mjere, kriteriji itd.
 2) Management plan:
-- tko provrđuje strategiju, tko je kontrolira i koje su posljedice neprovođenja
+- tko potvrđuje strategiju, tko je kontrolira i koje su posljedice neprovođenja
 - uključiti i gradska poduzeća kao što je Zg holding
 U vojsci je to dosta dobro napravljeno pa iskoriste to.
 
 SWOT - osoblje:
 s: jeftinija i efikasnija državna uprava
 w: sama najava smanjenje ugrožava efikasnost osoblja, to je također i značajna investicija
-o: skoro da i nema
+o: prekvalifikacija radnika
 t: ugorženi interesi radnika
 
 8) Tehnološki razvoj
@@ -99,7 +100,7 @@ II) Razraditi mjere smanjivanja broja gostiju
 SWOT Dubrovnik
 S: Povjesna tradicija znanosti u Dubrovniku ( Ruđer Bošković - svojevremeno najveći znanstvenik), tradicija kulturnih priredbi itd.
 W: Ogorman broj turista koji sline po zidinama
-O: Ako Ameri imaju Silicijsku dolinu mi bi istim principom mogli napraviti Silicojsku planinu (Srđ)
+O: Ako Ameri imaju Silicijsku dolinu mi bi istim principom mogli napraviti Silicijsku planinu (Srđ)
 T: Kompanije bi mogle odustati od investicija ukoliko započne zagađivanje okoliša genetskim preparatima, herbicidima i pesticidima
 
 
@@ -108,11 +109,24 @@ Autoceste bi trebale biti u funkciji razvoja zemlje. To znači da bi na svakih 1
 Preduvjeti za takav koncept razvoja su uvođenje vinjeta. Također, prilikom registracije vozila platila bi se i autocesta u iznosu od 500 - 1000kn. Time bi se autocesta maksimalno koristila i bila u funkciji razvoja. Tek nakon tih preduvjeta trebalo bi početi razmišljati o monetizaciji.
 
 SWOT Autocesta
-S: Ubrzavanje komunikacija i ušteda u gorivu (smanjenje čekanja naplate i izlaz bliži destinaciji)
+S: Ubrzavanje komunikacija i ušteda u gorivu (smanjenje čekanja naplate i izlazi bliži destinaciji)
 W: Financijska ulaganja u novu infrastrukturu (izlazi s AC i nova koncepcija naplate)
-O: Akriviranje građevinara koji su na koljenima
-T: Ugorženi interesi blagajnika i struktura naplate u AC
+O: Građevinarstvo
+T: Ugorženi interesi blagajnika te struktura naplate u AC
 
+
+10) TE Plomin
+Cilj enregetske politike (hrvatske/EU) je eneregetska nezavisnost. Najgora stvar je kad nečeg nema il je pod znakom pitanja(kao danas plin)
+Kod odluke o TE Plomin potrebno je razmotriti više faktora:
+- ukupna potreba hrvatske za el.en. - konstantna ušteda trošila električne energije (televizori, žarulje, usisavači itd)
+- alternativni izvori energije (sunčeva energija, vjetar)
+- nuklearna energija
+
+SWOT TE
+S: Jeftina proizvodnja električna energija
+W: Premećaji/prorast cijene ugljena, radioaktivna prašina, skupa izgradnja, ispuštanje CO2, deponiranje šljake
+O: Građevinarstvo
+T: Tehnološki razvoj, alternativni izvori energije
 
 
 Napomena: Prvu točku (Odgoda plaćanja kredita svim poduzećima na mjesec dana) treba ponoviti u slijedećem kvartalu. Također treba razmotiriti i mogućnost uvođenja iste mjere za građanstvo.
