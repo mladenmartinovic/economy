@@ -6,13 +6,20 @@ Dokument predstavlja idejnu razradu te je koncipiran na način:
 - SWOT brainstorming (strengths, weaknesses, opportunities and threats)
 
 1) Odgoda plaćanja kredita svim poduzećima na mjesec dana
-Pojašnjenje: Krenite od sebe. Ukoliko jedan mjesec ne bi morali platiti ratu kredita dobili bi značajan predah. Tako dobiveni novac bi mogli iskoristiti za neophodne stvari. Smatram da bi to uveliko pomoglo gospodarsvu s time da se nikome ništa ne oprašta. Svi i dalje moraju vratiti svoje dugove samo s predahom od mjesec dana. 
+Pojašnjenje: Krenite od sebe. Ukoliko jedan mjesec ne bi morali platiti ratu kredita dobili bi značajan predah. Tako dobiveni novac bi mogli iskoristiti za neophodne stvari. 
+Smatram da bi to uveliko pomoglo gospodarsvu s time da se nikome ništa ne oprašta. Svi i dalje moraju vratiti svoje dugove samo s predahom od mjesec dana. 
+Postupak bi bio otprilike ovakav:
+- banke se zadužuju kod drugih banaka uz neku kamatu / smanjenje pričuve te iste banke
+- plaćanje troška od strane države
+Bankama je postupak (ako malo razmisle) u interesu jer se smanjuje rizik neplaćanja dugova od strane privrednih subjekata.
+Da je ovaj postupak Grčka primjenila ona uopće ne bi bila u krizi. Njihov postupak je bio "Banke pomažu bankama", dok je privreda totalno uništena. 
+Predloženi postupak se može nazvati "Država pomaže privredi". 
 
 SWOT - kamata:
 s: Smanjenje rizika bankrota poduzeća, više novaca ostaje privredi
-w: Operacija košta
+w: Operacija košta državu
 o: Predah gospodarstvu u plaćanju obaveza kredita
-t: Interes banaka upitan. One nevole uplitanje države u njihovu kamatu ali broj loših plasmana bi se smanjio. Mogli bi to i podržati uz određenu naknadu - to je lako izračunati. Ako to banke i ne podrže - provedite to.
+t: Interes banaka. One nevole uplitanje države u njihovu kamatu ali broj loših plasmana bi se smanjio. Mogli bi to i podržati uz određenu naknadu - to je lako izračunati. Ako to banke i ne podrže - provedite to.
 
 
 2) Smanjenje cijene električne energije od 50%
@@ -26,7 +33,7 @@ t: Ugrožen interes HEP-a, mogući i gubici
 
 
 3) Smanjenje cijene vode od 50%
-Pojašnjenje: Voda u hrvatskoj je bezobrazno skupa. Ako se usporede cijene s nekim zemljama Afrike i Bliskog istoka gdje vode nema, vidi se da je cijena vode nekoliko puta veća.
+Pojašnjenje: Voda u Hrvatskoj je bezobrazno skupa. Ako se usporede cijene s nekim zemljama Afrike i Bliskog istoka gdje vode nema, vidi se da je cijena vode nekoliko puta viša.
 
 SWOT - EE:
 s: Ostaje više novaca privredi i građanstvu
@@ -48,7 +55,7 @@ t: Ugrožen interes građana i banaka.
 
 
 5) Smanjenje PDV-a
-Pojašnjenje: Gore navedene mjere će donjeti povećanje BDP-a. Time bi se postupno mogao smanjivati PDV, do razine prosjeka EU. Samo smanjenje ne utječe na konkurentnost domaćeg proizvoda nego na obujam trgovine.
+Pojašnjenje: Gore navedene mjere će donjeti povećanje BDP-a. Time bi se postupno mogao smanjivati PDV, do razine prosjeka EU. Samo smanjenje PDV-a ne utječe na konkurentnost domaćeg proizvoda nego na obujam trgovine.
 
 SWOT - PDV:
 s: Integracija gospodarstva u EU
